@@ -22,7 +22,7 @@
   perspective: 100vw;
   margin: 0 auto;
   width: 33.3333333333%;
-  max-width: 280px;
+  max-width: 400px;
   transform-style: preserve-3d;
   z-index: 0;
 }
